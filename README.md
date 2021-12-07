@@ -11,12 +11,12 @@ Random.
 
 The following sorting techniques are coded by us before the experiment:
 
-Insertion Sort
-Binary Insertion Sort
-Merge Sort
-Quick Sort
-Quick Sort with Median of 3 Optimization
-Heap Sort
+Insertion Sort | 
+Binary Insertion Sort |
+Merge Sort |
+Quick Sort | 
+Quick Sort with Median of 3 Optimization |
+Heap Sort |
 Counting Sort
 
 
