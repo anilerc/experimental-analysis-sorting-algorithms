@@ -1,7 +1,7 @@
 # experimental-evaluation-sort-algos
-This project aims to conduct an experiment and evaluate the time complexity metrics of the following sorting algorithms for each different input characteristic.  
+This project aims to conduct an experiment and evaluate the time complexity metrics of the following sorting algorithms for each different input characteristic.
 
-There are five different input characterisitic:
+There are five different input characterisitics:
 
 Sorted,
 Reverse sorted,
