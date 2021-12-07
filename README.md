@@ -22,3 +22,5 @@ Counting Sort
 
 Then, for each algoritmh, data sets representing each input characteristic were run. 
 Finally, their sorting performance and relative comparison for each combination were meticulously investigated by us in the project report.
+
+PLEASE VISIT REPORT & EVALUATION.PDF file for further info.
